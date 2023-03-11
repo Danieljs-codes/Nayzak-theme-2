@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+/* .full-bg {
+  box-shadow: (0 0 0 100vmax #121212);
+  clip-path: (0, -100vmax);
+} */
