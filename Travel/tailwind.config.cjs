@@ -15,6 +15,7 @@ module.exports = {
         secondary: '#121212',
         accent: '#18181E',
         tertiary: '#212121',
+        'blue-tint': '#3E3E59',
       },
     },
   },
